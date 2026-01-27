@@ -1,0 +1,11 @@
+{
+  "ITS@@radius-s": 12,
+  "ITS@@paper": true,
+  "ITS@@writing": true,
+  "ITS@@writing-document": true,
+  "ITS@@select": "dnd",
+  "ITS@@mini": false,
+  "ITS@@ITS-Sizes": "sizing-readable",
+  "ITS@@justified": true,
+  "ITS@@lig": true
+}
