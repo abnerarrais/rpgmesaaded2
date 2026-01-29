@@ -11,26 +11,17 @@
             "id": "1f6b3bd510691d4a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "00 Anexos/Tumba de Demara.jpg"
+                "file": "10 Campanhas/11 Notas de sessão/Sem título.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Tumba de Demara"
-            }
-          },
-          {
-            "id": "1f36344abaf4a76d",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [],
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,8 +221,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "1f36344abaf4a76d",
+  "active": "1f6b3bd510691d4a",
   "lastOpenFiles": [
+    "10 Campanhas/11 Notas de sessão/Sessão 1 - 25.jan.2026.md",
+    "10 Campanhas/11 Notas de sessão/Sem título.md",
     "20 Modelos/Notas da sessão 0.md",
     "00 Anexos/token_1.png",
     "20 Modelos/Sessão NM - Data.md",
@@ -244,7 +237,6 @@
     "10 Campanhas/13 Locais/Drawing 2026-01-27 11.02.08.excalidraw.md",
     "10 Campanhas/13 Locais/Tumba de Demara.md",
     "10 Campanhas/13 Locais/pic2731130.jpg",
-    "10 Campanhas/11 Notas de sessão/Sessão 1 - 25.jan.2026.md",
     "00 Anexos/Tumba de Demara.jpg",
     "00 Anexos/Tumba de Demara_0.jpg",
     "10 Campanhas/13 Locais/pic2731135.jpg",
