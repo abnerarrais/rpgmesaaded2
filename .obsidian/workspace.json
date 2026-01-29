@@ -11,17 +11,26 @@
             "id": "1f6b3bd510691d4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "20 Modelos/Local.md",
-                "mode": "source",
-                "source": false
+                "file": "00 Anexos/Tumba de Demara.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Local"
+              "icon": "lucide-image",
+              "title": "Tumba de Demara"
+            }
+          },
+          {
+            "id": "1f36344abaf4a76d",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00 Anexos/Tumba de Demara.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Tumba de Demara"
             }
           },
           {
@@ -171,9 +181,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "5c369a369c4ff2e3",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "0bcabb079a9e9771",
@@ -206,11 +226,15 @@
       "bases:Criar nova base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "1f6b3bd510691d4a",
+  "active": "1f36344abaf4a76d",
   "lastOpenFiles": [
+    "20 Modelos/Notas da sessão 0.md",
+    "00 Anexos/token_1.png",
+    "20 Modelos/Sessão NM - Data.md",
     "README.md",
     "20 Modelos/Local.md",
     "20 Modelos/Personagem.md",
@@ -219,7 +243,6 @@
     "00 Anexos/Livro dos monstros.pdf",
     "10 Campanhas/13 Locais/Drawing 2026-01-27 11.02.08.excalidraw.md",
     "10 Campanhas/13 Locais/Tumba de Demara.md",
-    "00 Anexos/token_1.png",
     "10 Campanhas/13 Locais/pic2731130.jpg",
     "10 Campanhas/11 Notas de sessão/Sessão 1 - 25.jan.2026.md",
     "00 Anexos/Tumba de Demara.jpg",
