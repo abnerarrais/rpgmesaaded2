@@ -1,16 +1,24 @@
 # Pré-sessão
 - [ ] Revisar os personagens
-Personagem,Jogador,XP Ganho,Total,Notas de Destaque
-Steiner,Victoria,10 XP,10,Debate criativo no grupo.
-Liora,Camila,20 XP,20,Ideia brilhante + Sobrevivência.
-Malhatonto,João,45 XP,45,Primeiro abate (Gnoll na estrada).
-- [ ] Recados: Existem recados a serem dados para o grupo?
-- [ ] Recapitulação: A aventura começou com o grupo partindo da Vila de Nethril em direção às ruínas do Castelo de Demara. Ainda na estrada, o grupo provou seu valor quando Malhatonto abateu um Gnoll batedor que espreitava o caminho. Durante uma pausa na floresta, o grupo demonstrou grande entrosamento em uma discussão estratégica e criativa sobre os perigos que viriam. Para garantir o conforto e a segurança do acampamento, Liora sacrificou uma de suas tochas para iniciar uma fogueira, mantendo as feras afastadas.
 
-Ao chegarem ao Castelo de Demara, a realidade do perigo se impôs. Na Área 1, o grupo enfrentou dois Gnolls sentinelas. O combate foi brutal: embora tenham ferido gravemente um dos monstros (deixando-o com apenas 1 PV), a guerreira Steiner foi atingida severamente, caindo com -2 PV. Diante da iminência da morte, o grupo tomou a difícil, mas sábia decisão de recuar, carregando sua companheira ferida de volta à cidade para buscar a cura divina do Clérigo Farrish.
+|Personagem|XP Ganho|XP Total|PV|Notas de Destaque|
+|---|---|---|---|---|
+|Steiner|10|10|-2|Debate criativo no grupo|
+|Liora|20 |20|6|Ideia brilhante + Sobrevivência|
+|Malhatonto|45 |45|7|Primeiro abate (Gnoll na estrada)|
+
+- [ ] Recados:
+- Como vocês viram na última sessão, os monstros são letais. Pensem em estratégias para conseguir os objetivos. Às vezes será a luta, às vezes fuga, às vezes outra coisa criativa. E, no combate, pensem em mais do que apenas atacar. Dadas as habilidades de seus personagens, como vocês podem se colocar a serviço um do outro em vez de apenas atacar?
+- [ ] Recapitulação:
+- A aventura começou com o grupo partindo da cidade Vila de Nethril em direção às ruínas do Castelo de Demara.
+- O grupo se conheceu na estrada entre a Taverna do Dragão e a Torre do Mago, quando Malhatonto provou seu valor quando ao abater um Gnoll batedor que espreitava o caminho.
+- A missão do grupo foi dada pelo mago Nethril e consiste em ir até as ruínas do Castelo de Demara, onde o lorde elfo Taran desapareceu, recuperar a orbe do dragão.
+- Depois de entrar no Salão Central do Castelo, o grupo foi surpreendido por 2 Gnolls e, embora tenham ferido gravemente um dos gnolls, especialmente para Steiner, teve de recuar e buscar a ajuda do Clérigo Farrish no Templo. 
+- Para garantir o conforto e a segurança do acampamento, Liora sacrificou uma de suas tochas para iniciar uma fogueira, mantendo as feras afastadas.
+
 
 # Introdução
-Como a sessão vai ser começar? Você planejou alguma cena, alguma música? Anote isso aqui para não se esquecer.
+O grupo está no acampamento da floresta, entre a cidade e o caminho para o Castelo de Demara.
 
 # Localizações e cenas
 
