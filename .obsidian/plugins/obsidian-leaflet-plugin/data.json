@@ -1,5 +1,34 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1769675978843,
+      "markers": [
+        {
+          "id": "ID_7a593848688b",
+          "type": "default",
+          "loc": [
+            -3.50537109375,
+            2.421875
+          ],
+          "link": "Castelo de Demara - Área 1 - Sala central",
+          "layer": "%5B%5BTumba%20de%20Demara.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "10 Campanhas/13 Locais/Tumba de Demara.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker-alt",
