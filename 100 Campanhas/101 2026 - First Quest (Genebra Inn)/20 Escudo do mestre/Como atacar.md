@@ -1,0 +1,7 @@
+- Lance 1d20
+- Faça TAC0 - o resultado
+- Se o resultado for inferior ou igual à CA do monstro, o ataque foi bem-sucedido
+- Se o ataque for bem-sucedido:
+	- Lance os dados de dano
+	- Subtraia os danos dos PV do monstro
+	- Monstros morrem quando acabam seus pontos de vida

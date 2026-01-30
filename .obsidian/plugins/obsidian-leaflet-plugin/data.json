@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1769675978843,
+      "lastAccessed": 1769805076609,
       "markers": [
         {
           "id": "ID_7a593848688b",
@@ -20,12 +20,97 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_89bb393808e8",
+          "type": "default",
+          "loc": [
+            -4.95849609375,
+            1.3203125
+          ],
+          "link": "Castelo de Demara - Área 2 - Os guardas kobolds",
+          "layer": "%5B%5BTumba%20de%20Demara.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_784b9b4acbca",
+          "type": "default",
+          "loc": [
+            -3.63818359375,
+            3.578125
+          ],
+          "link": "Castelo de Demara - Área 5 - a capela",
+          "layer": "%5B%5BTumba%20de%20Demara.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_798ba99a6809",
+          "type": "default",
+          "loc": [
+            -5.02099609375,
+            3.125
+          ],
+          "link": "Castelo de Demara - Área 6 - a cela de Taran",
+          "layer": "%5B%5BTumba%20de%20Demara.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a918fa7b9a0a",
+          "type": "default",
+          "loc": [
+            -1.8812255859375,
+            1.98046875
+          ],
+          "link": "Castelo de Demara - Área 3 - O jardim do castelo",
+          "layer": "%5B%5BTumba%20de%20Demara.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d86b489a482b",
+          "type": "default",
+          "loc": [
+            -1.5179443359375,
+            0.94140625
+          ],
+          "link": "Castelo de Demara - Área 4 - armazém",
+          "layer": "%5B%5BTumba%20de%20Demara.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "10 Campanhas/13 Locais/Tumba de Demara.md"
+        "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/13 Locais/Mapa - Castelo de Demara.md"
       ]
     }
   ],

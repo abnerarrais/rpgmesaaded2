@@ -1,0 +1,2 @@
+- Por 1.000 po o mago dirá aos personagens o que faz o item mágico
+- O mago aceitará outro item mágico como pagamento

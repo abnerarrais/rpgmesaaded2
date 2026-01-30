@@ -1,0 +1,3 @@
+- O monstro deve ser humanoide
+- O ladrão deve atacar pelas costas; surpreender; usar uma adaga ou espada curta
+- O ladrão possui  **+ 4** de bônus na jogada de ataque. Causa 2x o dano normal

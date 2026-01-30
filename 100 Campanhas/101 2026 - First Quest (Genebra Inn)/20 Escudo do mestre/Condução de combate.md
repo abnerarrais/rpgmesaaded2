@@ -1,0 +1,6 @@
+- O mestre decide o que os monstros farão
+- Os jogadores dizem em voz alta o que seus personagens tentarão fazer
+- Jogue a iniciativa
+- O lado que vencer a iniciativa faz seus ataques
+- O lado que perder faz seus ataques
+- Repetir as etapas anteriores até o fim do combate

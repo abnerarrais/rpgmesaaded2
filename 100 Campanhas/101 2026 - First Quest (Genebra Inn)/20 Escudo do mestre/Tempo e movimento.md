@@ -1,0 +1,3 @@
+- 1  rodada = 1 minuto
+- Os personagens movem-se até 40 metros por rodada (anões movem-se 20)
+- Os personagens podem mover-se até metade do total permitido e ainda assim fazer um ataque na mesma rodada

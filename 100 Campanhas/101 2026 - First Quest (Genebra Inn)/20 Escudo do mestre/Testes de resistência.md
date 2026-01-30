@@ -1,0 +1,3 @@
+- Lance 1d20
+- Se o resultado for **igual ou maior** que o número de resistência, o teste de resistência foi bem-sucedido
+- Leia a descrição da magia e veja o que acontece se o personagem falhou no teste de resistência

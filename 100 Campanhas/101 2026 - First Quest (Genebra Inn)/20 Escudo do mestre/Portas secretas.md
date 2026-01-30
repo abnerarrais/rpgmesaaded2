@@ -1,0 +1,5 @@
+- O mestre lança 1d6 para cada personagem
+- Se o resultado for 1, a porta secreta foi descoberta
+- Elfos encontram portas secretas se o resultado for 1 ou 2
+- Os personagens levarão 10 rodadas para investigar cada 6 metros de parede
+- Os personagens só têm direito de tentar achar portas secretas uma vez a cada parede

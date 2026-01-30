@@ -1,3 +1,5 @@
 {
-  "attachmentFolderPath": "00 Anexos"
+  "attachmentFolderPath": "00 Anexos",
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }

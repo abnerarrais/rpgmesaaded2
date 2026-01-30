@@ -1,0 +1,3 @@
+- O mestre escolhe que habilidade testar
+- O jogador lança um d20
+- Se o resultado for **menor** ou **igual** ao valor da habilidade, a ação foi bem-sucedida
