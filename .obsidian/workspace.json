@@ -6,59 +6,70 @@
       {
         "id": "f8f43f8352d90321",
         "type": "tabs",
-        "dimension": 50,
         "children": [
-          {
-            "id": "d83221620e162ecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/13 Locais/Mapa - Castelo de Demara.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mapa - Castelo de Demara"
-            }
-          },
           {
             "id": "87c1a106a85264d6",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "100 Campanhas/101 2026 - First Quest (Genebra Inn)/20 Escudo do mestre/Divisória do Mestre.canvas",
+                "file": "100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Divisória do Mestre.canvas",
                 "viewState": {
-                  "x": 580,
-                  "y": -290,
-                  "zoom": -2.1598713367783895
+                  "x": 793.1998674890622,
+                  "y": -453.37252154840223,
+                  "zoom": 0.6801713391280488
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Divisória do Mestre"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c495be06a9afe1c3",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
+          },
           {
-            "id": "18a6f7083ac094bc",
+            "id": "3d218a8d9fe0f1d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/11 Notas de sessão/Sessão 2 - 8.fev.2026.md",
+                "file": "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Mapa - Castelo de Demara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sessão 2 - 8.fev.2026"
+              "title": "Mapa - Castelo de Demara"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e61e6345281b86ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb29e0b127893cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 3 - O jardim do castelo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Castelo de Demara - Área 3 - O jardim do castelo"
+            }
+          },
+          {
+            "id": "06a843f935a8f20a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 5 - a capela.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Castelo de Demara - Área 5 - a capela"
             }
           }
         ]
@@ -118,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0964c62ecc16e3fe",
@@ -263,51 +275,51 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "38cc39f930b4b007",
+  "active": "87c1a106a85264d6",
   "lastOpenFiles": [
-    "100 Campanhas/141 AD&D2 Solo - Karameikos/10 Campanha/15 Itens",
-    "100 Campanhas/141 AD&D2 Solo - Karameikos/10 Campanha/14 Bestiário",
-    "100 Campanhas/141 AD&D2 Solo - Karameikos/10 Campanha/12 NPC's",
-    "100 Campanhas/141 AD&D2 Solo - Karameikos/10 Campanha/13 Locais",
-    "100 Campanhas/141 AD&D2 Solo - Karameikos/10 Campanha/11 Notas de sessão",
-    "100 Campanhas/141 AD&D2 Solo - Karameikos/20 Escudo do mestre",
-    "100 Campanhas/141 AD&D2 Solo - Karameikos/10 Campanha",
-    "100 Campanhas/141 AD&D2 Solo - Karameikos/001 Anexos",
-    "100 Campanhas/141 AD&D2 Solo - Karameikos",
-    "100 Campanhas/131 Crônicas de Olam/10 Campanha/15 Itens",
-    "100 Campanhas/131 Crônicas de Olam/10 Campanha/14 Bestiário",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/20 Escudo do mestre/Divisória do Mestre.canvas",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/11 Notas de sessão/Sessão 2 - 8.fev.2026.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/14 Bestiário/Gnoll.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/13 Locais/Vila de Nethril - Templo.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/13 Locais/Mapa - Castelo de Demara.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/13 Locais/Castelo de Demara - Área 3 - O jardim do castelo.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/13 Locais/Castelo de Demara - Área 2 - Os guardas kobolds.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/13 Locais/Castelo de Demara - Área 1 - Sala central.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/12 NPC's/Bonegnasher.md",
-    "200 Modelos/Monstros.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/13 Locais/Castelo de Demara - Área 6 - a cela de Taran.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/13 Locais/Castelo de Demara - Área 5 - a capela.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/13 Locais/Castelo de Demara - Área 4 - armazém.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/14 Bestiário/Morcego gigante.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/13 Locais/Vila de Nethril - Torre do Mago.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/12 NPC's/Lorde elfo Taran.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/13 Locais/Vila de Nethril.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/12 NPC's/Gart, Nariz de Pedra.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/10 Campanha/12 NPC's/Farrish, o clérigo.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/20 Escudo do mestre/Serviços do Templo.md",
-    "200 Modelos/Sessão NM - Data.md",
-    "200 Modelos/Personagem.md",
-    "200 Modelos/NPC.md",
-    "200 Modelos/Notas da sessão 0.md",
-    "200 Modelos/Local.md",
-    "200 Modelos/Item.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/001 Anexos/pic2731130.jpg",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 3 - O jardim do castelo.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Mapa - Castelo de Demara.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 1 - Sala central.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 5 - a capela.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 4 - armazém.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 2 - Os guardas kobolds.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/111 Notas de sessão/Sessão 2 - 8.fev.2026.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/111 Notas de sessão/Sessão 1 - 25.jan.2026.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Divisória do Mestre.canvas",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/102 Anexos/pic2731136.jpg",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/102 Anexos/Tumba de Demara.jpg",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/114 Bestiário/Gnoll.md",
+    "100 Campanhas/201 AD&D2 Solo - Karameikos/10 Campanha/15 Itens",
+    "100 Campanhas/201 AD&D2 Solo - Karameikos/10 Campanha/14 Bestiário",
+    "100 Campanhas/201 AD&D2 Solo - Karameikos/10 Campanha/12 NPC's",
+    "100 Campanhas/201 AD&D2 Solo - Karameikos/10 Campanha/13 Locais",
+    "100 Campanhas/201 AD&D2 Solo - Karameikos/10 Campanha/11 Notas de sessão",
+    "100 Campanhas/201 AD&D2 Solo - Karameikos/20 Escudo do mestre",
+    "100 Campanhas/201 AD&D2 Solo - Karameikos/10 Campanha",
+    "100 Campanhas/201 AD&D2 Solo - Karameikos/001 Anexos",
+    "100 Campanhas/201 AD&D2 Solo - Karameikos",
+    "100 Campanhas/401 Crônicas de Olam/10 Campanha/15 Itens",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Vila de Nethril - Templo.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/112 NPC's/Bonegnasher.md",
+    "000 Modelos/Monstros.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 6 - a cela de Taran.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/114 Bestiário/Morcego gigante.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Vila de Nethril - Torre do Mago.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/112 NPC's/Lorde elfo Taran.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Vila de Nethril.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/112 NPC's/Gart, Nariz de Pedra.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/112 NPC's/Farrish, o clérigo.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Serviços do Templo.md",
+    "000 Modelos/Sessão NM - Data.md",
+    "000 Modelos/Personagem.md",
+    "000 Modelos/NPC.md",
+    "000 Modelos/Notas da sessão 0.md",
+    "000 Modelos/Local.md",
+    "000 Modelos/Item.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/102 Anexos/pic2731130.jpg",
     "00 Anexos/token_1.png",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/001 Anexos/Tumba de Demara.jpg",
     "00 Anexos/Tumba de Demara_0.jpg",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/001 Anexos/pic2731135.jpg",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/001 Anexos/pic2731136.jpg",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/102 Anexos/pic2731135.jpg",
     "Anexos/Pasted image 20260127085816.png"
   ]
 }

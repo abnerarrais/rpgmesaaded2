@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"af34711771901a09","type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Valores das habilidades.md","x":-720,"y":-960,"width":400,"height":540},
+		{"id":"5fcf63596823be10","type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Teste de habilidade.md","x":-720,"y":-380,"width":400,"height":200},
+		{"id":"10eb922850bbf944","type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Tempo e movimento.md","x":-280,"y":-960,"width":400,"height":270},
+		{"id":"5a5935b6555862bb","type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Perigos.md","x":160,"y":-960,"width":400,"height":270},
+		{"id":"e706c895cde2e65d","type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Condução de combate.md","x":600,"y":-960,"width":400,"height":320},
+		{"id":"207ac45af9ad9330","type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Poder da fé (clérigo).md","x":1040,"y":-960,"width":400,"height":320},
+		{"id":"7dfd7858cb049fcb","x":1480,"y":-960,"width":400,"height":200,"type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Torre do Mago.md"},
+		{"id":"6ecbfcdb67376d35","x":1480,"y":-740,"width":400,"height":480,"type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Serviços do Templo.md"},
+		{"id":"81dad642c8d4f5e8","x":1480,"y":-240,"width":400,"height":620,"type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Serviços da loja.md"},
+		{"id":"21750da57e4afb94","type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Movimentos  especiais.md","x":-280,"y":-660,"width":400,"height":280},
+		{"id":"a5bec5bd4d4c2cef","type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Portas secretas.md","x":-280,"y":-340,"width":400,"height":360},
+		{"id":"1208d1311d7005df","type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Testes de resistência.md","x":160,"y":-660,"width":400,"height":280},
+		{"id":"51e107079ba62bf6","type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Como atacar.md","x":600,"y":-620,"width":400,"height":340},
+		{"id":"eb130a29bb4c14e7","type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Talentos do ladrão.md","x":1040,"y":-600,"width":400,"height":400},
+		{"id":"004c30f34b1f1bb9","x":1040,"y":-160,"width":400,"height":300,"type":"file","file":"100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Ataque pelas costas (ladrão).md"}
+	],
+	"edges":[]
+}

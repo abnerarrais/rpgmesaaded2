@@ -2,6 +2,7 @@
 - [x] Revisar os personagens
 - [x] Recados: Existem recados a serem dados para o grupo?
 - [x] Recapitulação: breve recapitulação da sessão anterior (em tópico funciona bem)
+- [x] Trilha sonora: https://tabletopaudio.com/index.html?446&351&401&484&454
 
 # Introdução
 **1.** A história começa com os personagens na **cidade**, na 📌 **taverna Dragão Vermelho**. É um lugar agitado, repleto de pessoas bebendo, músicos tocando e cidadãos jogando dardo. A cidade está tranquila. Tão tranquila que os heróis não têm como aventurar-se. De repente, um trompete soa na rua:
