@@ -1,7 +1,8 @@
 # Descrição curta do local
-- Vocês entram na Sala Central do Castelo. Está tudo escuro. Não é possível ver nada.
-- Esta grande sala era, no passado, o salão principal do castelo. Hoje o gesso do teto está todo destruído e o chão, coberto de escombros.
-> 
+- Vocês olham ao redor e percebem que estão no Jardim do Castelo.
+- Mas é um jardim diferente: as plantas, embora pareçam ter sido cultivadas antes, agora estão todas mortas.
+- No centro do jardim há uma fonte, cheia de água esverdeada e lodosa.
+- Vocês ainda estão tentando entender onde estão quando um sapo gigante sai de dentro da água e ataca vocês.
 
 # Encontros
 
@@ -14,28 +15,8 @@ Os escombros não são espaços seguros. Escondem falhas nos pisos. Se o ladrão
 
 ## Monstros
 
-- **Gnoll 1**: **INT**: Baixa; **TEND.**: Mau e caótico (cruel); **CA**: 5 (cota de malha); **MOV**: 9; **TAC0**: 19; **N. ATA**: 1; **DANO**: 2d4 (estrela da manhã); **RES.**: 17; **TAMANHO**: Grande (2,25 metros); 
-**XP**: 35; **PV**: 9
-- **Gnoll 2**: **INT**: Baixa; **TEND.**: Mau e caótico (cruel); **CA**: 5 (cota de malha); **MOV**: 9; **TAC0**: 19; **N. ATA**: 1; **DANO**: 2d4 (estrela da manhã); **RES.**: 17; **TAMANHO**: Grande (2,25 metros); 
-**XP**: 35; **PV**: 8
+- **[[Sapo gigante]]**: **INT**: Animal; **TEND.**: Neutra; **CA**: 6; **MOV**: 6; **SALTO**: 6; **TAC0**: 19; **N. ATA**: 1; **DANO**: 2d4; **RES.**: 16; **ATAQUE ESP.**: Pode saltar até 18m e atacar criaturas em voo; **TAMANHO**: 1,50 metros; **XP**: 120; **PV**: 14
 
 ## Possíveis Recompensas
 
-Se os gnolls forem vencidos, os jogadores podem procurar tesouro em seus pertences. O Gnoll 1 possui um pequeno saco de ouro preso ao cinto, contendo 16 po. As armas são enferrujadas e não têm qualquer valor.
- Vocês ainda estão tentando entender onde estão e como é o ambiente quando escutam:
-
-<aside>
-
-_**Gnoll 1**_: Para trás, humanos! Este é o reino de Bonegnasher!
-
-_**Gnoll 2**_: Rendam-se ou serão descascados para o jantar!
-
-</aside>
-
-Os Gnolls querem que vocês se entreguem. Então, o que vão fazer?
-
-- **Render-se:** Os gnolls tomam suas armas, prendem vocês com cordas e deixam todos vocês inconscientes atirando vocês para fora do castelo. Vocês ficam caídos em um monte de lixo. Vocês não tiveram sucesso. Quando voltarem, na próxima vez, saberão que não devem se render.
-- **Recuar:** Os gnolls não vão seguir os personagens se deixarem o castelo, mas estarão aqui esperando.
-- **Conversar:** Os gnolls não querem conversar. Mesmo assim, se vocês insistirem, eles rosnam e pedem que se rendam. Se os personagens recusarem, os gnolls atacam.
-- **Lutar:** Se os heróis atacarem, os gnolls contra-atacam.
-
+Se vasculharem o jardim, os personagens encontrarão um colar que vale 100 peças de ouro e um anel mágico de proteção +1 no lodo da fonte.
