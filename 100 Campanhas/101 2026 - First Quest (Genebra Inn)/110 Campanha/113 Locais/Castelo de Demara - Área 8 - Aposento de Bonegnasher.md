@@ -22,7 +22,6 @@ Um plano inteligente para os heróis é cercar o ogro enquanto o mago, de longe,
 
 Este ogro é um monstro muito resistente. Então, cuidado ao usá-lo. Tenha certeza que os jogadores estão conscientes que ele é perigoso e que podem fugir se precisarem. Uma vez que isso for dito, a escolha é deles. Se decidirem que seus heróis ficam para lutar, Bonegnasher tentará matá-los sem piedade.
  
-
 ## NPCs nesse local (cerca de 3 a 6)
 
 
@@ -35,3 +34,15 @@ Este ogro é um monstro muito resistente. Então, cuidado ao usá-lo. Tenha cert
 - **[[Bonegnasher, o Ogro]]**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 5; **MOV**: 9; **TAC0**: 17; **N. ATA**: 1; **DANO**: 1d8+2 (clava) ou 1d10 (punho); **RES.**: 16; **TAMANHO**: Grande (2,70 m); **XP**: 270; **PV**: 23
 
 ## Possíveis Recompensas
+
+Há um pouco de tesouro na sala, Bonegnasher mantém a maior parte de seu ouro na Área 7 (sala do tesouro). Se os heróis procurarem na pilha de peles, na cama do ogro, irão encontrar uma bolsa com 6 pedras preciosas, que valem, cada uma, 25 peças de ouro. Um pequeno baú, imprensado na parede, atrás das peles, contém uma adaga mágica +1, uma espada curta +2, uma poção de cura, um rolo de pergaminho com as magias Dardos Místicos e Enfeitiçar Pessoas.
+
+O mais importante é a chave dourada de formato estranho, presa ao cinto de Bonegnasher. Os heróis precisam dela para encontrar a orbe dos dragões! 
+
+No cinto do ogro há uma chave estranha, feita de um metal dourado. Seu formato é de uma flauta ou de algum tipo de instrumento de sopro. Quando seguram a chave, escutam, no fundo da mente, uma melodia distante.
+
+A chave abre a passagem secreta para a Área 13. Se os heróis tentarem usá-la como um instrumento musical, enquanto estiverem no aposento de Bonegnasher, escutam uma melodia mística na flauta/chave dourada, seguida por um efeito sonoro de ressonância mágica (indicando que a orbe está por perto). Se levarem a chave até Taran, na Área 6, Taran diz: "Oh, muito bem. Podemos agradecer aos céus que Bonegnasher é burro demais para pensar em assoprá-la. Escutem." (Som de uma melodia curta tocada em um instrumento de sopro) Se perguntarem mais sobre o som, Taran: "É a canção da orbe. A nota chamou-a e ela respondeu. A orbe fica bem perto daqui. Bem perto. Entre em qualquer sala próxima e toque esta nota e uma porta mágica se abrirá."
+
+A chave é uma senha para encontrar a orbe dos dragões. Sopre a chave como uma flauta que a orbe responderá. Quando fizerem isso, verifique o símbolo musical da sala onde estão (ou da que estiver mais próxima). A música é como a brincadeira de quente/frio. Quanto mais os heróis estiverem próximos da orbe, mais alto escutarão a melodia.
+
+O símbolo indica a faixa a ser executada, ou a observação "Sem Resposta". Se os heróis estiverem muito afastados da orbe, você encontrará o símbolo "Sem Resposta". Nesse caso, não execute nenhuma faixa do CD.
