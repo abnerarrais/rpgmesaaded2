@@ -1,5 +1,5 @@
 # Descrição curta do local. Suas características principais
-- Ao entrar, vocês reconhecem a cozinha e lá estão alguns aldeões escravizados pelos goblins para cozinhar para a tropa de Bonegnasher.
+- Ao entrar, vocês reconhecem a cozinha e lá estão alguns aldeões escravizados pelos goblins para cozinhar para a tropa de [[Bonegnasher]].
 - A cozinha está bagunçada e malcheirosa.
 - Nela vocês vêem uma mesa, uma lareira e prateleiras em desordem.
 - Três homens malvestidos trabalham na mesa. Cinco goblins estão de pé, de costas para vocês.
@@ -13,21 +13,18 @@ Pergunte aos jogadores: "O que vocês fazem?"
 
 ## NPCs nesse local (cerca de 3 a 6)
 
-
-## Encontros
-
 ## Monstros
 
-- **[[Goblin]] 1**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: $1d6+1$ (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 6
-- **[[Goblin]] 2**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: $1d6+1$ (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 4
-- **[[Goblin]] 3**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: $1d6+1$ (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 4
-- **[[Goblin]] 4**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: $1d6+1$ (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 2
-- **[[Goblin]] 5**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: $1d6+1$ (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 4
-- **[[Goblin]] 6**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: 1d6+1 (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 5
-- **[[Goblin]] 7**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: 1d6+1 (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 3
-- **[[Goblin]] 8**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: 1d6+1 (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 4
-- **[[Goblin]] 9**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: 1d6+1 (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 1
-- **[[Goblin]] 10**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: 1d6+1 (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 7
+- **[[Goblin]] 1**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: `dice: 1d6+1` (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 6
+- **[[Goblin]] 2**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: `dice: 1d6+1`; **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 4
+- **[[Goblin]] 3**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: `dice: 1d6+1`; **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 4
+- **[[Goblin]] 4**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: `dice: 1d6+1` (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 2
+- **[[Goblin]] 5**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: `dice: 1d6+1` (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 4
+- **[[Goblin]] 6**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: `dice: 1d6+1` (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 5
+- **[[Goblin]] 7**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: `dice: 1d6+1` (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 3
+- **[[Goblin]] 8**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: `dice: 1d6+1` (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 4
+- **[[Goblin]] 9**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: `dice: 1d6+1` (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 1
+- **[[Goblin]] 10**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 6; **TAC0**: 20; **N. ATA**: 1; **DANO**: `dice: 1d6+1` (maça); **RES.**: 19; **TAMANHO**: Pequeno (1,20 m); **XP**: 15; **PV**: 7
 
 Durante a luta, os escravos se escondem embaixo da mesa. Se os heróis vencerem, saem do esconderijo. Eles estão muitc contentes. Uma vez livres das correntes, os cidadãos ficam muito felizes em poder escapar do castelo e voltar para suas casas:
 

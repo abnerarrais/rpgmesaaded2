@@ -26,15 +26,15 @@ Quando o homem-lagarto for derrotado, os jogadores podem explorar a capela.
 
 ## Monstros
 
-- **[[Homem-lagarto]]** 1: INT: Baixa; TEND.: Mau e neutro (egoísta); CA: 5; MOV: 6; TAC0: 19; N. ATA: 3 ou 1; DANO: 2d4 (espada bastarda); RES.: 17; ATA. ESP.: Magias (Causar medo, Causar Ferimentos leves); TAMANHO: Normal (2,30 metros); XP: 65; PV: 12
+- **[[Homem-lagarto]]** 1: INT: Baixa; TEND.: Mau e neutro (egoísta); CA: 5; MOV: 6; TAC0: 19; N. ATA: 3 ou 1; DANO: `dice: 2d4` (espada bastarda); RES.: 17; ATA. ESP.: Magias (Causar medo, Causar Ferimentos leves); TAMANHO: Normal (2,30 metros); XP: 65; PV: 12
 
 Ele conhece duas magias, usadas nesta mesma ordem:
 
 1. **Causar medo**. O shamam aponta para o herói que aparenta ser o mais resistente: Steiner, homem de armas, e lança a magia. Ela precisa fazer um *teste de resistência*. Se for bem-sucedido, nada acontecerá; se falhar: “Você está aterrorizada,  foge em pânico!”. Ela saiu pela mesma porta que entrou e fica lá até que a batalha termine.
-2. **Causar ferimentos leves**. O shamam lança a magia e tenta tocar o herói com menos armadura. Ele faz uma jogada de ataque,  se atingir o herói, causará 1d8 de dano ao personagem.
+2. **Causar ferimentos leves**. O shamam lança a magia e tenta tocar o herói com menos armadura. Ele faz uma jogada de ataque,  se atingir o herói, causará `dice: 1d8` de dano ao personagem.
 
 # Possíveis Recompensas
 
 No baú há 18 pp e um rolo de pergaminho contendo duas magias: Dardos místicos e Arrombar/Trancar.
 
-Daqui, é possível ouvir algo na sala ao lado (área 6).
+Daqui, é possível ouvir algo na sala ao lado ([[Castelo de Demara - Área 6 - Cela de Taran]]).

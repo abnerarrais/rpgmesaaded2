@@ -10,8 +10,8 @@
 
 ## Monstros
 
-- **[[Sapo gigante]]**: **INT**: Animal; **TEND.**: Neutra; **CA**: 6; **MOV**: 6; **SALTO**: 6; **TAC0**: 19; **N. ATA**: 1; **DANO**: 2d4; **RES.**: 16; **ATAQUE ESP.**: Pode saltar até 18m e atacar criaturas em voo; **TAMANHO**: 1,50 metros; **XP**: 120; **PV**: 14
+- **[[Sapo gigante]]**: **INT**: Animal; **TEND.**: Neutra; **CA**: 6; **MOV**: 6; **SALTO**: 6; **TAC0**: 19; **N. ATA**: 1; **DANO**: `dice: 2d4`; **RES.**: 16; **ATAQUE ESP.**: Pode saltar até 18m e atacar criaturas em voo; **TAMANHO**: 1,50 metros; **XP**: 120; **PV**: 14
 
 ## Possíveis Recompensas
 
-Se vasculharem o jardim, os personagens encontrarão um colar que vale 100 peças de ouro e um anel mágico de proteção +1 no lodo da fonte.
+Se vasculharem o jardim, os personagens encontrarão um colar que vale 100 peças de ouro e um [[Anel de proteção]] +1 no lodo da fonte.

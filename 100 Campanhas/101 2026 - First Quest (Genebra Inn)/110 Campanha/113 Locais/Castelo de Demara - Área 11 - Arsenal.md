@@ -7,14 +7,10 @@ As armas estão flutuando porque foram engolidas por um cubo gelatinoso. A criat
 
 Como a criatura é lenta, os heróis podem escapar sem danos se deixarem a sala na primeira rodada do combate. Se eles não deixarem a sala, o combate prossegue normalmente. Os personagens podem recuar da batalha em qualquer rodada antes da criatura atacar. Tenha a certeza de que os personagens estão conscientes disso, porque podem precisar fugir de uma criatura tão perigosa. Lembre-se que o cubo gelatinoso paralisa as criaturas que toca, se falharem no teste de resistência. Heróis paralisados não podem fugir! 
 
-## NPCs nesse local (cerca de 3 a 6)
-
-
-## Encontros
 
 ## Monstros
 
-- **[[Cubo Gelatinoso]]** 1: **INT**: Nenhuma; **TEND.**: Neutro; **CA**: 8; **MOV**: 6; **TAC0**: 17; **N. ATA**: 1; **DANO**: 2d4 + Especial (paralisação); **RES.**: 16; **TAMANHO**: Grande (cubo de 3 metros); **XP**: 650; **PV**: 15
+- **[[Cubo Gelatinoso]]** 1: **INT**: Nenhuma; **TEND.**: Neutro; **CA**: 8; **MOV**: 6; **TAC0**: 17; **N. ATA**: 1; **DANO**: `dice: 2d4` + Especial (paralisação); **RES.**: 16; **TAMANHO**: Grande (cubo de 3 metros); **XP**: 650; **PV**: 15
 
 ## Possíveis Recompensas
 

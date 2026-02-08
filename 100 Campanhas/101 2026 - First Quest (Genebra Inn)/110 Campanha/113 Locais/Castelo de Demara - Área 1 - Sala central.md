@@ -1,15 +1,13 @@
 # Descrição curta do local
 - Vocês entram na Sala Central do Castelo. Está tudo escuro. Não é possível ver nada.
 - Esta grande sala era, no passado, o salão principal do castelo. Hoje o gesso do teto está todo destruído e o chão, coberto de escombros.
-> 
 
 # Encontros
 
 Vocês ainda estão tentando entender onde estão e como é o ambiente quando escutam:
 
-**[[Gnoll]] 1**: Para trás, humanos! Este é o reino de [[Bonegnasher]]!
-
-**[[Gnoll]] 2**: Rendam-se ou serão descascados para o jantar!
+>**[[Gnoll]] 1**: Para trás, humanos! Este é o reino de [[Bonegnasher]]!
+ **[[Gnoll]] 2**: Rendam-se ou serão descascados para o jantar!
 
 Os Gnolls querem que vocês se entreguem. Então, o que vão fazer?
 
@@ -20,11 +18,10 @@ Os Gnolls querem que vocês se entreguem. Então, o que vão fazer?
 
 
 ## Combates
-Os escombros não são espaços seguros. Escondem falhas nos pisos. Se o ladrão gastar uma rodada vasculhando algum desses espaços em busca de armadilhas, ele automaticamente notará as falhas no piso. Então, poderá avisar os outros personagens. Os gnolls sabem disso e evitam se aproximar desses locais. Se um herói pisar em um ladrilho marcado, o piso irá ceder e ele deve fazer um **teste de resistência**. Se o teste for bem-sucedido, o herói se esquiva a tempo e vai para um lugar seguro. Se falhar no teste, escorrega nos escombros e leva 1d4 de dano.
-    
-- Encontros Sociais
-- Armadilhas
-- Quebra-Cabeças, Charadas
+- Os escombros não são espaços seguros. Escondem falhas nos pisos.
+- Se o ladrão gastar uma rodada vasculhando algum desses espaços em busca de armadilhas, ele automaticamente notará as falhas no piso. Então, poderá avisar os outros personagens.
+- Os gnolls sabem disso e evitam se aproximar desses locais. Se um herói pisar em um ladrilho marcado, o piso irá ceder e ele deve fazer um **teste de resistência**.
+- Se o teste for bem-sucedido, o herói se esquiva a tempo e vai para um lugar seguro. Se falhar no teste, escorrega nos escombros e leva `dice: 1d4` de dano.
 
 ## Monstros
 
@@ -33,4 +30,6 @@ Os escombros não são espaços seguros. Escondem falhas nos pisos. Se o ladrão
 
 ## Possíveis Recompensas
 
-Se os gnolls forem vencidos, os jogadores podem procurar tesouro em seus pertences. O Gnoll 1 possui um pequeno saco de ouro preso ao cinto, contendo 16 po. As armas são enferrujadas e não têm qualquer valor.
+Se os gnolls forem vencidos, os jogadores podem procurar tesouro em seus pertences.
+- O Gnoll 1 possui um pequeno saco de ouro preso ao cinto, contendo 16 po.
+- As armas são enferrujadas e não têm qualquer valor.

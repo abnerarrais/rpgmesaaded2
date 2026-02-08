@@ -1,0 +1,1 @@
+- Tomando essa poção, cura-se `dice: 2d4+2` pontos de dano imediatamente.
