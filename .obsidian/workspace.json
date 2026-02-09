@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fa380424db5c3d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/115 Itens/Anel de proteção.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anel de proteção"
-            }
-          },
-          {
             "id": "e49fb790c8630b20",
             "type": "leaf",
             "state": {
@@ -29,9 +15,9 @@
               "state": {
                 "file": "100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Divisória do Mestre.canvas",
                 "viewState": {
-                  "x": 1745.4690027189572,
-                  "y": -230.3230898477941,
-                  "zoom": -0.7756804901942269
+                  "x": 1321.3799047918596,
+                  "y": -258.6758954137765,
+                  "zoom": -0.36996010792187856
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -53,19 +39,27 @@
             }
           },
           {
-            "id": "1d9b9dbeb9bd35c7",
+            "id": "08238ca44649f013",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/111 Notas de sessão/Sessão 1 - 25.jan.2026.md",
+                "file": "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 5 - Capela.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sessão 1 - 25.jan.2026"
+              "title": "Castelo de Demara - Área 5 - Capela"
             }
-          },
+          }
+        ],
+        "currentTab": 2,
+        "stacked": true
+      },
+      {
+        "id": "84320e685a4871b0",
+        "type": "tabs",
+        "children": [
           {
             "id": "3dfd9b3dcbc69f01",
             "type": "leaf",
@@ -80,8 +74,7 @@
               "title": "Sessão 2 - 8.fev.2026"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,21 +280,23 @@
   },
   "active": "3dfd9b3dcbc69f01",
   "lastOpenFiles": [
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 5 - Capela.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/111 Notas de sessão/Sessão 2 - 8.fev.2026.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/111 Notas de sessão/Sessão 1 - 25.jan.2026.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Mapa - Castelo de Demara.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Divisória do Mestre.canvas",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Mapa - Castelo de Demara.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 1 - Sala central.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/117 Personagens/133 Steiner, a guardiã.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/115 Itens/Anel de proteção.md",
+    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/111 Notas de sessão/Sessão 1 - 25.jan.2026.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/102 Anexos/Wild Space.jpg",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/102 Anexos/Harrow Hill.jpg",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/102 Anexos/Mount Dread.jpg",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/115 Itens/Anel de proteção.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/117 Personagens",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 3 - O jardim do castelo.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/116 Magias (Divinas e Arcanas)",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/115 Itens/Sem título",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 2 - Os guardas kobolds.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 1 - Sala central.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 11 - Arsenal.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 12 - Mina dos Orcs.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 13 - Tumba de Demara.md",
@@ -311,15 +306,12 @@
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 7 - Sala do tesouro.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/120 Escudo do mestre/Talentos do ladrão.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 6 - Cela de Taran.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 5 - Capela.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/113 Locais/Castelo de Demara - Área 4 - Armazém.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/115 Itens/Poção de cura.md",
     "000 Modelos/Item.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/112 NPC's/Bonegnasher.md",
-    "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/117 Personagens/133 Steiner, a guardiã.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/117 Personagens/132 Liora Edevan.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/110 Campanha/117 Personagens/131 Júlio Malhatonto.md",
-    "Castelo de Demara - Área 5 - a capela.md",
     "100 Campanhas/101 2026 - First Quest (Genebra Inn)/102 Anexos/Tumba de Demara.jpg",
     "100 Campanhas/201 AD&D2 Solo - Karameikos/10 Campanha/15 Itens",
     "100 Campanhas/201 AD&D2 Solo - Karameikos/10 Campanha/14 Bestiário",

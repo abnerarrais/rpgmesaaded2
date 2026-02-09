@@ -36,3 +36,8 @@ Trilha sonora: https://tabletopaudio.com/index.html?446&351&401&484&454
 ## Locais prováveis
 
 # Bloco de notas
+- Começaram discutindo o que fazer.
+- Montam uma emboscada na [[Castelo de Demara - Área 1 - Sala central]]. Steiner mata o gnoll mais fraco. Malhatonto mata o gnoll mais forte pelas costas. 70 xp a mais para cada um deles. Malhatonto pega o saco do gnoll 1 com 16 po.
+- Decidem entrar na [[Castelo de Demara - Área 5 - Capela]]. 
+- Steiner perde  5 PV. Malhatonto mata o [[Homem-lagarto]]. Cada um recebeu 65xp. Steiner recupera os PV's ao tocar no altar. Malhatonto desarma a amardilha do baú e o abre. Pega 18 pp. Liora pega os dois pergaminhos de magia.
+- Eles terminaram a sessão ouvindo um barulho da sala ao lado [[Castelo de Demara - Área 6 - Cela de Taran]]
