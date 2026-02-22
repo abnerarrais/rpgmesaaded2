@@ -1,4 +1,4 @@
-# Pré-sessão
+ # Pré-sessão
 - [x] Revisar os personagens
 
 | Personagem | XP Ganho | XP Total | PV       | Notas de Destaque                     |
