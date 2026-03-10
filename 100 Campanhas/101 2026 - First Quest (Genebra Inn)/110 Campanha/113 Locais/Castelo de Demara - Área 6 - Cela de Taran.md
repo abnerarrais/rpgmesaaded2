@@ -9,7 +9,7 @@ Vocês estão escutando vozes do outro lado. O que vão fazer?
 
 Depois que os heróis vencerem os robgoblins, podem resgatar Taran. Sua cela está trancada com uma corrente pesada, amarrada. Se libertarem [[Lorde elfo Taran]],
 
->"Obrigado, meus amigos. Abençoado seja Nethril por ter enviado vocês. Eu os levaria até a orbe, mas não tenho mais forças. Tudo que sei é que a orbe está atrás da parede mágica, mas não sei onde exatamente é a parede. Sejam rápidos, mas tenham cuidado! Bonegnasher tem dois lobos de estimação e muitos ores e goblins que o servem".
+>"Obrigado, meus amigos. Abençoado seja Nethril por ter enviado vocês. Eu os levaria até a orbe, mas não tenho mais forças. Tudo que sei é que a orbe está atrás da parede mágica, mas não sei onde exatamente é a parede. Sejam rápidos, mas tenham cuidado! Bonegnasher tem dois lobos de estimação e muitos orcs e goblins que o servem".
 
 Para garantir a segurança dos povos bons, Taran deseja que os heróis encontrem a orbe.
 

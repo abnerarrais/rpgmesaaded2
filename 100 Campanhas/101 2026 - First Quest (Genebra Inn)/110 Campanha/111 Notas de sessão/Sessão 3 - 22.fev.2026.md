@@ -1,11 +1,11 @@
 # Pré-sessão
 - [x] Revisar os personagens
 
-| Personagem | XP Ganho | XP Total | PV  | Notas de Destaque                                                |
-| ---------- | -------- | -------- | --- | ---------------------------------------------------------------- |
-| Steiner    | 235      | 245      | 10  | Assumindo posição de liderança e risco                           |
-| Liora      | 185      | 205      | 6   | Ideia e manutenção do grupo                                      |
-| Malhatonto | 219      | 264      | 6   | Se tornando explorador, especialmente de tesouross e armadilhas. |
+| Personagem | XP Ganho | XP Total | PV  | Notas de Destaque                                               |
+| ---------- | -------- | -------- | --- | --------------------------------------------------------------- |
+| Steiner    | 235      | 245      | 10  | Assumindo posição de liderança e risco                          |
+| Liora      | 185      | 205      | 8   | Ideia e manutenção do grupo                                     |
+| Malhatonto | 201      | 246      | 6   | Se tornando explorador, especialmente de tesouros e armadilhas. |
 
 - [x] Recados: Existem recados a serem dados para o grupo?
 - [x] Recapitulação: breve recapitulação da sessão anterior (em tópico funciona bem)
@@ -18,7 +18,7 @@
 	- no combate, pensem em mais do que apenas atacar. 
 	- Dadas as habilidades de seus personagens, como vocês podem se colocar a serviço um do outro em vez de apenas atacar?
 - Por causa do combate contra o homem-lagarto, quero recompensar Steiner e Liora pelo modo como socorreram Malhatonto. Liora recebe 50 xp por ter ajudado a refinar o plano e Steiner recebe mais 100 xp por ter se arriscado. Também quero dar mais 50 xp para Malhatonto por estar encarnando melhor suas habilidades de ladrão.
-- Vamos lembrar também que Malhatonto está com 34 po e que Liora recuperou dois pergaminhos de magia da [[Castelo de Demara - Área 5 - Capela]].
+- Vamos lembrar também que Malhatonto está com 16 po e 18pp e que Liora recuperou dois pergaminhos de magia da [[Castelo de Demara - Área 5 - Capela]].
 
 # Introdução
 Depois de terem sobrevivido a uma primeira expedição desastrosa, vocês estão bem mais experientes. Vocês voltaram ao Castelo de Demara para recuperar a orbe do dragão das mãos de [[Bonegnasher]]. Vocês acabaram de matar o [[Homem-lagarto]] e estão na capela quando escutaram algo na sala ao lado.
@@ -34,3 +34,8 @@ Depois de terem sobrevivido a uma primeira expedição desastrosa, vocês estão
 ## Locais prováveis
 
 # Bloco de notas
+- Malhatonto finaliza Robgoblin 2
+- Robgoblin 3 morre no carvão
+- Robgoblin 1 foge
+- Malhatonto fica com 2pv
+- Steiner fica com  5pv
