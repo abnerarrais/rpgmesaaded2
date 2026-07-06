@@ -1,7 +1,7 @@
 # Descrição curta do local
 - A sala é pequena e cheia de lixo entulhado próximo às paredes, deixando um espaço vazio no centro.
 - Seis pequenas criaturas estão agachadas nesse espaço, segurando cálices quase maiores do que elas.
-- Parecem surpreendidas com a preseça de estranhos. Tentando demonstrar coragem eles fazem uma ameaça.
+- Parecem surpreendidas com a presença de estranhos. Tentando demonstrar coragem eles fazem uma ameaça.
  
 
 # Encontros

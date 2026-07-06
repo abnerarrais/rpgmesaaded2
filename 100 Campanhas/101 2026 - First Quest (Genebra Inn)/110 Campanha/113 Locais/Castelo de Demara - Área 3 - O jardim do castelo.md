@@ -10,7 +10,7 @@
 
 ## Monstros
 
-- **[[Sapo gigante]]**: **INT**: Animal; **TEND.**: Neutra; **CA**: 6; **MOV**: 6; **SALTO**: 6; **TAC0**: 19; **N. ATA**: 1; **DANO**: `dice: 2d4`; **RES.**: 16; **ATAQUE ESP.**: Pode saltar até 18m e atacar criaturas em voo; **TAMANHO**: 1,50 metros; **XP**: 120; **PV**: 14
+- **[[Sapo gigante]]**: **INT**: Animal; **TEND.**: Neutra; **CA**: 10; **MOV**: 6; **SALTO**: 6; **TAC0**: 19; **N. ATA**: 1; **DANO**: `dice: 2d4`; **RES.**: 16; **ATAQUE ESP.**: Pode saltar até 18m e atacar criaturas em voo; **TAMANHO**: 1,50 metros; **XP**: 120; **PV**: 14
 
 ## Possíveis Recompensas
 

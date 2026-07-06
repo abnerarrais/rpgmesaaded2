@@ -45,4 +45,4 @@ Como a sessão vai ser começar? Você planejou alguma cena, alguma música? Ano
 - Falcão Gigante (OSE) com Liora
 - Steiner refletindo sobre o que tem acontecido enquanto espera com Taran e Malhatonto
 - Malhatonto e Steiner recupera todos seus pv com as poções que o misterioso Falcão Gigante dá para Liora
-- Steiner ao escutar a história do Falcão se lembra que quando resgatou seu filho adotivo tinha um cavaldo usando um anel parecido com o que Liora descreve
+- Steiner ao escutar a história do Falcão se lembra que quando resgatou seu filho adotivo tinha um cavalo usando um anel parecido com o que Liora descreve

@@ -21,5 +21,3 @@ Se os heróis entrarem na sala com alguma fonte de luz, começam a ouvir o barul
 ## Possíveis Recompensas
 
  A superfície da água está 3 metros abaixo do chão, e o poço tem mais 3 metros de profundidade coberta de água. No fundo há uma adaga +l enferrujada. Está escondida pela água escura, e só poderá ser encontrada se alguém mergulhar enquanto a sala estiver bem iluminada.
-
-A chave é uma senha para encontrar a orbe dos dragões. Sopre a chave como uma flauta que a orbe responderá. Quando fizerem isso, verifique o símbolo musical da sala onde estão (ou da que estiver mais próxima). A música é como a brincadeira de quente/frio. Quanto mais os heróis estiverem próximos da orbe, mais alto escutarão a melodia.

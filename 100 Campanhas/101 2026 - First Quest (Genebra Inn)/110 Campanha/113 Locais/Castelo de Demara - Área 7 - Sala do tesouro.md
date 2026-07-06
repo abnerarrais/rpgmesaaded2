@@ -30,7 +30,7 @@ Se o verme de carniça estiver comendo ou for vencido, os heróis podem pegar o 
 - Há também o livro de magias "Taran Estrela Dourada". Se os jogadores devolverem o livro a [[Lorde elfo Taran]], ele dará 50 peças de ouro como recompensa quando retornarem à cidade. Não conte aos jogadores o que os objetos podem fazer, nem fale que são mágicos! Apenas instrua: "No monte vocês encontram uma espada, um escudo, e um conjunto de cota de malha, junto com duas garrafas cheias de um líquido de cor estranha". Pergunte quem vai levar o quê e depois anote tudo.
 
 Os objetos mágicos são:
-- uma espada longa +1;
+- uma espada loxnga +1;
 - um conjunto de cota de malha +2
 - um escudo +1,
 - uma poção de cura 

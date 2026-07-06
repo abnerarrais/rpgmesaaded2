@@ -22,9 +22,9 @@ Essa sala é o aposento de Bonegnasher, o ogro.
 
 ## Monstros
 
-- **[[Lobo (Predador)]]**: **INT**: Baixa; **TEND.**: Neutro; **CA**: 7; **MOV**: 18; **TAC0**: 19; **N. ATA**: 1; **DANO**: `dice: 1d4+1`; **RES.**: 17; **TAMANHO**: Pequeno (90 cm); **XP**: 65; **PV**: 11
-- **[[Lobo (Esmagador)]]**: **INT**: Baixa; **TEND.**: Neutro; **CA**: 7; **MOV**: 18; **TAC0**: 19; **N. ATA**: 1; **DANO**: `dice: 1d4+1`; **RES.**: 17; **TAMANHO**: Pequeno (90 cm); **XP**: 65; **PV**: 10
-- **[[Bonegnasher, o Ogro]]**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 5; **MOV**: 9; **TAC0**: 17; **N. ATA**: 1; **DANO**: `dice: 1d8+2` (clava) ou `dice: 1d10` punho; **RES.**: 16; **TAMANHO**: Grande (2,70 m); **XP**: 270; **PV**: 23
+- **[[Lobo (Predador)]]**: **INT**: Baixa; **TEND.**: Neutro; **CA**: 10; **MOV**: 18; **TAC0**: 19; **N. ATA**: 1; **DANO**: `dice: 1d4+1`; **RES.**: 17; **TAMANHO**: Pequeno (90 cm); **XP**: 65; **PV**: 11
+- **[[Lobo (Esmagador)]]**: **INT**: Baixa; **TEND.**: Neutro; **CA**: 10; **MOV**: 18; **TAC0**: 19; **N. ATA**: 1; **DANO**: `dice: 1d4+1`; **RES.**: 17; **TAMANHO**: Pequeno (90 cm); **XP**: 65; **PV**: 10
+- **[[Bonegnasher, o Ogro]]**: **INT**: Baixa; **TEND.**: Ordeiro e Mau; **CA**: 7; **MOV**: 9; **TAC0**: 17; **N. ATA**: 1; **DANO**: `dice: 1d8+2` (clava) ou `dice: 1d10` punho; **RES.**: 16; **TAMANHO**: Grande (2,70 m); **XP**: 270; **PV**: 23
 
 ## Possíveis Recompensas
 
